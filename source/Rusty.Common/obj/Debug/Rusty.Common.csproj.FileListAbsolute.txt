@@ -1,0 +1,5 @@
+D:\Systems_Git\Rusty\Rusty.Common\obj\Debug\Rusty.Common.csprojResolveAssemblyReference.cache
+D:\Systems_Git\Rusty\Rusty.Common\bin\Debug\Rusty.Common.dll
+D:\Systems_Git\Rusty\Rusty.Common\bin\Debug\Rusty.Common.pdb
+D:\Systems_Git\Rusty\Rusty.Common\obj\Debug\Rusty.Common.dll
+D:\Systems_Git\Rusty\Rusty.Common\obj\Debug\Rusty.Common.pdb

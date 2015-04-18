@@ -1,0 +1,9 @@
+D:\Systems_Git\Rusty\Rusty.Common.Tests\obj\Debug\Rusty.Common.Tests.csprojResolveAssemblyReference.cache
+D:\Systems_Git\Rusty\Rusty.Common.Tests\bin\Debug\Rusty.Common.Tests.dll
+D:\Systems_Git\Rusty\Rusty.Common.Tests\bin\Debug\Rusty.Common.Tests.pdb
+D:\Systems_Git\Rusty\Rusty.Common.Tests\bin\Debug\nunit.framework.dll
+D:\Systems_Git\Rusty\Rusty.Common.Tests\bin\Debug\Rusty.Common.dll
+D:\Systems_Git\Rusty\Rusty.Common.Tests\bin\Debug\Rusty.Common.pdb
+D:\Systems_Git\Rusty\Rusty.Common.Tests\bin\Debug\nunit.framework.xml
+D:\Systems_Git\Rusty\Rusty.Common.Tests\obj\Debug\Rusty.Common.Tests.dll
+D:\Systems_Git\Rusty\Rusty.Common.Tests\obj\Debug\Rusty.Common.Tests.pdb
